@@ -8,7 +8,7 @@ A simple multi-threaded port scanner in Python.
 - Shows open ports and their associated services.
 ## Author
 
-[Joseph Rithin](www.linkedin.com/in/joseph-rithin)
+[Joseph Rithin](https://www.linkedin.com/in/joseph-rithin/)
 
 
 ##  Run it
